@@ -1,12 +1,4 @@
-#EXTM3U
-# Playlist Name: Live_Sports
-# Owner: MD ANAMUL HOQUE
-# Telegram: https://t.me/ireentv
-# Website: https://anamul.pages.dev
-# Developer: IreenTechnology
-# Version: 1.0
-# Channels Amount: 414
-# Last Update: 2026-08-16 06:39:28 AM
+
 
 #EXTINF:-1 tvg-chno="6" tvg-id="AstroCricket.US" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Live TV - US" tvg-name="Astro Cricket",Astro Cricket
 https://ireentvsportspremium.pages.dev?channel=Astro%20Cricket&embed=true
